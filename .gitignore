@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+vendor/
+target/
+build/
+.dart_tool/
+.idea/
+.vscode/
+*.db
+*.log
